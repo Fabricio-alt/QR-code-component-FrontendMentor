@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# QR-code-component-FrontendMentor
-Frontend Mentor Challeng
-=======
+
 # QR-code-component
 
 [<img src="design/qrcode.png" alt="imagem do projeto">]
