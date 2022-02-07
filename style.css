@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(201, 212, 226);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container{
+    width: 250px;
+    height: 380px;
+    border-radius: 10px;
+    background-color: rgb(248, 248, 248);
+    box-shadow: 0px 0px 5px 1px #ddd;
+    
+}
+
+.qr-code {
+    width: 220px;
+    height: 220px;
+    margin: 15px 15px 20px ;
+}
+
+.qr-code img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.description h2, .description p {
+    text-align: center;
+    width: 220px;
+    margin: auto;
+}
+
+.description h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.description p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .75rem;
+    color:#808080;
+}
+
+.footer p{
+    margin-top: 100px;
+}
+
+
+
